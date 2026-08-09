@@ -13,8 +13,8 @@ post validation and draft management.
 Tech Stack:
 React • JavaScript • Vite • CSS • Mock JWT
 
-Live Demo:
-[View Project]
+🔗 [Live Demo](https://social-media-post-manager.vercel.app/)
+
 
 Repository:
 [View Project]
